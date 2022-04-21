@@ -1,0 +1,25 @@
+.form-question {
+    background-color: rgb(38, 69, 206); 
+    border-radius: 10px;
+}
+
+.form-check {
+    border-radius: 15px;
+    padding: 0 40px;
+}
+
+.form-check:hover {
+    background-color: rgb(63, 95, 237);
+    
+}
+
+.form-check-label:hover {
+    cursor: pointer;
+}
+
+.form-question .lead {
+    padding: 0 5px;
+}
+
+
+/* rgb(38, 69, 206) */

@@ -10,5 +10,10 @@ Learnt and implemented the following:
 - scrollTo(x,y) method
 - setInterval() and clearInterval()
 
+# Updates
+- Added a 'reset' and 'try again' button
+- Added new questions
+- Minor tweaks to css
+
 # Check it out here!
 https://diptesh2001.github.io/OOP_Quiz/
